@@ -3,6 +3,7 @@ Web panel for Vortex SBRW server
 
 To-Do:
 
-- [ ] Login page
-- [ ] User interface
-- [ ] Admin interface
+- [x] Login page
+- [x] User interface
+- [x] Admin interface
+- [ ] Register Page
